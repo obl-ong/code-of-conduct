@@ -60,7 +60,7 @@ unacceptable, and for any of the following:
 - using a domain name for activity comprising or contributing to piracy, trademark or
   copyright infringement, fraudulent or deceptive practices, counterfeiting, or other
   illegal activity;
-- insighting or promoting violence against any person or groups of persons, which shall include but is not limited to LGBTQ persons;
+- insighting or promoting violence against any person or groups of persons, which shall include but is not limited to LGBTQIA+ persons and minorities;
 - bullying, engaging in cyper bullying, or inciting others to bully;
 - harassing, or encouraging others to harass or harm others;
 - stalking;
