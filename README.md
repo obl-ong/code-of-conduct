@@ -54,6 +54,7 @@ unacceptable, and for any of the following:
 - interfering with or disrupting servers or networks, or disobeying any requirements,
   procedures, policies, or regulation of networks;
 - harming minors in any way, including the distribution of child pornographic images;
+- distributing or hosting any adult content, including but not limited to, pornographic images or videos.
 - impersonating any person or entity, including, but not limited to, an official, forum
   leader, guide or host, or falsely stating or otherwise misrepresenting its affiliation
   with a person or entity;
