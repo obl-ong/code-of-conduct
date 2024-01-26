@@ -68,7 +68,7 @@ unacceptable, and for any of the following:
 - abusive intent to cause fear or threaten violence;
 - hate speech (including homophobia, transphobia, queerphobia, racism, sexism, ableism,
   casteism, xenophobia, antisemitism, islamophobia, and other forms of bigotry);
-- content which may be illegal under German or Scottish law;
+- content which may be illegal under United States law;
 - content containing Nazi symbolism, ideology, and the promotion thereof;
 - content which claims to forbid/disavow abusive or hateful conduct, but which permits
   "respectful" "discussions" of "unpopular opinions"/"controversial views" (dessert pizza
