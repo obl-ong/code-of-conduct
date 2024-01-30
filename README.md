@@ -79,6 +79,13 @@ unacceptable, and for any of the following:
 Registrations are prohibited to parties that are, or associated with, recognized
 hate groups, or are otherwise engaged in hate speech.
 
+Additionally, because Obl.ong is a fiscally sponsored 501(c)(3) organization in the United States, 
+uses of the `obl.ong` domain that do not comply with the United States law's guidelines for one of 
+these organizations are not allowed. These include, but are not limited to:
+- Influencing legislation
+- Participating in any campaign for or against a political candidate (this includes endorsing, whether written or monetarily, any candidate)
+- Activities that monetarily benefit any private individual or organization
+
 This list is not comprehensive, and we reserve the right to revoke any subdomain at
 any time. Obl.ong is not responsible for and does not actively monitor registrant's
 content, and therefore, cannot guarantee that content hosted on our subdomains does
