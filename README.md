@@ -48,6 +48,7 @@ to all who wish to use them. However, this does not mean they may be used for __
 purpose. We prohibit use of our subdomains for any of the behaviors listed above as
 unacceptable, and for any of the following:
 
+- any activities that intend to or actually generate profits for shareholders or do not act in the public interest
 - any form of malware (which includes, without limitation, malicious code or software
   that may affect the operation of the Internet);
 - any form of botnets, spam, or phishing;
@@ -86,6 +87,8 @@ not violate this policy. Failure to enforce this policy or respond to a complain
 does not constitute a waiver of our right to enforce it; nor does this policy create
 any obligations to users or any third-party beneficiary rights or private rights of
 action.
+
+Additionally, all `obl.ong` subdomains must comply with the [PIR guidelines for the .ONG TLD](https://thenew.org/org-people/about-pir/policies/ngo-and-ong-registration-policy/)
 
 To report content which you believe to be a violation of the above policy, please email [team@obl.ong](mailto:team@obl.ong).
 
